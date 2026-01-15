@@ -15,7 +15,7 @@ body{
 	background: #fff;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 96vh;
 }
 
 main {
@@ -42,7 +42,7 @@ a{
 .container{
 	max-width: 1024px;
 	margin: auto;
-	width: 100%;
+	width: 95%;
 }
 
 .btn {
@@ -55,7 +55,7 @@ a{
 
 .btn:hover{
     box-shadow: 0 5px 30px 0 rgba(0,0,0,.05);
-    transition: .3s ease;
+    transition: .5s ease;
 }
 
 .btn:active {
