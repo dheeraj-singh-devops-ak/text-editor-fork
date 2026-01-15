@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
 
 *{
-	font-family: 'sans-serif', 'Poppins', sans-serif;
+	font-family: 'Poppins';
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -76,11 +76,11 @@ a{
 }
 
 .tools-btn:active:hover {
-    background-color: #f3b3b3;
+    background-color: #99fa9e;
 }
 
 .tools-area {
-    background-color: #f8f9fa;
+    background-color: #5f80a1;
     width: 100%;
     padding: 20px;
     border-top-left-radius: 8px;
