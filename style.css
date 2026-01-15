@@ -15,7 +15,7 @@ body{
 	background: #fff;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 96vh;
 }
 
 main {
@@ -42,20 +42,20 @@ a{
 .container{
 	max-width: 1024px;
 	margin: auto;
-	width: 100%;
+	width: 95%;
 }
 
 .btn {
     background-color: #eaeaea;
     border: none;
-    padding: 8px 20px 8px 20px;
+    padding: 5px 2px 8px 20px;
     border-radius: 50px;
     cursor: pointer;
 }
 
 .btn:hover{
     box-shadow: 0 5px 30px 0 rgba(0,0,0,.05);
-    transition: .3s ease;
+    transition: .5s ease;
 }
 
 .btn:active {
@@ -68,7 +68,7 @@ a{
     padding: 8px 20px 8px 20px;
     border-radius: 6px;
     cursor: pointer;
-    margin: 2px;
+    margin: 10px;
 }
 
 .tools-btn:hover {
@@ -88,7 +88,7 @@ a{
 }
 
 .txt-area .text {
-    width: 100%;
+    width: 90%;
     height: 400px;
     resize: none;
     border-bottom-left-radius: 8px;
