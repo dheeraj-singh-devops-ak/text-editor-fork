@@ -72,11 +72,11 @@ a{
 }
 
 .tools-btn:hover {
-    background-color: #eaeaea;
+    background-color: #f8f9f9;
 }
 
 .tools-btn:active:hover {
-    background-color: #e1e0e0;
+    background-color: #f3b3b3;
 }
 
 .tools-area {
